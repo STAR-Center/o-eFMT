@@ -1,0 +1,16 @@
+%YAML:1.0
+
+Camera.type: "PinHole"
+
+Camera.fx: 2955.7
+Camera.fy: 2949.9
+Camera.cx: 2023.1
+Camera.cy: 1510.7
+
+Camera.k1: 0.1601
+Camera.k2: -0.3277
+Camera.p1: -0.00073991
+Camera.p2: 0.0051
+
+Camera.width: 4056
+Camera.height: 3040
